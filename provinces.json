@@ -1,0 +1,95 @@
+{
+    "provinces": [
+        {
+            "pr_id": "1",
+            "pr_name": "ນະຄອນຫລວງວຽງຈັນ",
+            "pr_name_en": "Vientiane capital"
+        },
+        {
+            "pr_id": "2",
+            "pr_name": "ຜົ້ງສາລີ",
+            "pr_name_en": "Phongsali"
+        },
+        {
+            "pr_id": "3",
+            "pr_name": "ຫລວງນ້ຳທາ",
+            "pr_name_en": "Louang Namtha"
+        },
+        {
+            "pr_id": "4",
+            "pr_name": "ອຸດົມໄຊ",
+            "pr_name_en": "Oudomxai"
+        },
+        {
+            "pr_id": "5",
+            "pr_name": "ບໍ່ແກ້ວ",
+            "pr_name_en": "Bokeo"
+        },
+        {
+            "pr_id": "6",
+            "pr_name": "ຫຼວງພະບາງ",
+            "pr_name_en": "Louang Phabang"
+        },
+        {
+            "pr_id": "7",
+            "pr_name": "ຫົວພັນ",
+            "pr_name_en": "Houaphan"
+        },
+        {
+            "pr_id": "8",
+            "pr_name": "ໄຊຍະບູລີ",
+            "pr_name_en": "Xaignabouli"
+        },
+        {
+            "pr_id": "9",
+            "pr_name": "ຊຽງຂວາງ",
+            "pr_name_en": "Xiangkhoang"
+        },
+        {
+            "pr_id": "10",
+            "pr_name": "ວຽງຈັນ",
+            "pr_name_en": "Vientiane"
+        },
+        {
+            "pr_id": "11",
+            "pr_name": "ບໍລິຄຳໄຊ",
+            "pr_name_en": "Boli khamxai"
+        },
+        {
+            "pr_id": "12",
+            "pr_name": "ຄຳມ່ວນ",
+            "pr_name_en": "Khammouan"
+        },
+        {
+            "pr_id": "13",
+            "pr_name": "ສະຫວັນນະເຂດ",
+            "pr_name_en": "Savannakhet"
+        },
+        {
+            "pr_id": "14",
+            "pr_name": "ສາລະວັນ",
+            "pr_name_en": "Salavan"
+        },
+        {
+            "pr_id": "15",
+            "pr_name": "ເຊກອງ",
+            "pr_name_en": "Xekong"
+        },
+        {
+            "pr_id": "16",
+            "pr_name": "ຈຳປາສັກ",
+            "pr_name_en": "Champasak"
+        },
+        {
+            "pr_id": "17",
+            "pr_name": "ອັດຕະປື",
+            "pr_name_en": "Attapu"
+        },
+        {
+            "pr_id": "18",
+            "pr_name": "ໄຊສົມບູນ",
+            "pr_name_en": "Sisomboun"
+        }
+    ]
+}
+        
