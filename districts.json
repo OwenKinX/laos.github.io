@@ -1,890 +1,890 @@
 [
-            {
-                "dr_id": "101",
-                "dr_name": "ຈັນທະບູລີ",
-                "dr_name_en": "Chanthabuly",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "102",
-                "dr_name": "ສີໂຄດຕະບອງ",
-                "dr_name_en": "Sikhottabong",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "103",
-                "dr_name": "ໄຊເສດຖາ",
-                "dr_name_en": "Xaysetha",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "104",
-                "dr_name": "ສີສັດຕະນາກ",
-                "dr_name_en": "Sisattanak",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "105",
-                "dr_name": "ນາຊາຍທອງ",
-                "dr_name_en": "Naxaithong",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "106",
-                "dr_name": "ໄຊທານີ",
-                "dr_name_en": "Xaythany",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "107",
-                "dr_name": "ຫາດຊາຍຟອງ",
-                "dr_name_en": "Hadxaifong",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "108",
-                "dr_name": "ສັງທອງ",
-                "dr_name_en": "Sangthong",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "109",
-                "dr_name": "ປາກງື່ມ",
-                "dr_name_en": "Parkngum",
-                "pr_id": "1"
-            },
-            {
-                "dr_id": "201",
-                "dr_name": "ຜົ້ງສາລີ",
-                "dr_name_en": "Phongsaly",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "202",
-                "dr_name": "ໃຫມ່",
-                "dr_name_en": "May",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "203",
-                "dr_name": "ຂວາ",
-                "dr_name_en": "Khua",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "204",
-                "dr_name": "ສຳພັນ",
-                "dr_name_en": "Samphanh",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "205",
-                "dr_name": "ບູນເຫນືອ",
-                "dr_name_en": "Bounneua",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "206",
-                "dr_name": "ຍອດອູ",
-                "dr_name_en": "Nhot ou",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "207",
-                "dr_name": "ບູນໃຕ້",
-                "dr_name_en": "Boontai",
-                "pr_id": "2"
-            },
-            {
-                "dr_id": "301",
-                "dr_name": "ຫລວງນ້ຳທາ",
-                "dr_name_en": "Luangnamtha",
-                "pr_id": "3"
-            },
-            {
-                "dr_id": "302",
-                "dr_name": "ສິງ",
-                "dr_name_en": "Sing",
-                "pr_id": "3"
-            },
-            {
-                "dr_id": "303",
-                "dr_name": "ລອງ",
-                "dr_name_en": "Long",
-                "pr_id": "3"
-            },
-            {
-                "dr_id": "304",
-                "dr_name": "ວຽງພູຄາ",
-                "dr_name_en": "Viengphoukha",
-                "pr_id": "3"
-            },
-            {
-                "dr_id": "305",
-                "dr_name": "ນາແລ",
-                "dr_name_en": "Nalae",
-                "pr_id": "3"
-            },
-            {
-                "dr_id": "401",
-                "dr_name": "ໄຊ",
-                "dr_name_en": "Xay",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "402",
-                "dr_name": "ຫລາ",
-                "dr_name_en": "La",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "403",
-                "dr_name": "ນາໝໍ້ ",
-                "dr_name_en": "Namor",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "404",
-                "dr_name": "ງາ",
-                "dr_name_en": "Nga",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "405",
-                "dr_name": "ແບງ",
-                "dr_name_en": "Beng",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "406",
-                "dr_name": "ຮຸນ",
-                "dr_name_en": "Hoon",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "407",
-                "dr_name": "ປາກແບງ",
-                "dr_name_en": "Pakbeng",
-                "pr_id": "4"
-            },
-            {
-                "dr_id": "501",
-                "dr_name": "ຫ້ວຍຊາຍ",
-                "dr_name_en": "Houixay",
-                "pr_id": "5"
-            },
-            {
-                "dr_id": "502",
-                "dr_name": "ຕົ້ນເຜິ້ງ",
-                "dr_name_en": "Tongpheung",
-                "pr_id": "5"
-            },
-            {
-                "dr_id": "503",
-                "dr_name": "ເມິງ",
-                "dr_name_en": "Meung",
-                "pr_id": "5"
-            },
-            {
-                "dr_id": "504",
-                "dr_name": "ຜາອຸດົມ",
-                "dr_name_en": "Phaoudom",
-                "pr_id": "5"
-            },
-            {
-                "dr_id": "505",
-                "dr_name": "ປາກທາ",
-                "dr_name_en": "Paktha",
-                "pr_id": "5"
-            },
-            {
-                "dr_id": "601",
-                "dr_name": "ຫຼວງພະບາງ",
-                "dr_name_en": "Luangprabang",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "602",
-                "dr_name": "ຊຽງເງິນ",
-                "dr_name_en": "Xiengngeun",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "603",
-                "dr_name": "ນານ",
-                "dr_name_en": "Nan",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "604",
-                "dr_name": "ປາກອູ",
-                "dr_name_en": "Parkou",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "605",
-                "dr_name": "ນ້ຳບາກ",
-                "dr_name_en": "Nambak",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "606",
-                "dr_name": "ງອຍ",
-                "dr_name_en": "Ngoi",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "607",
-                "dr_name": "ປາກແຊງ",
-                "dr_name_en": "Pakxeng",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "608",
-                "dr_name": "ໂພນໄຊ",
-                "dr_name_en": "Phonxay",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "609",
-                "dr_name": "ຈອມເພັດ",
-                "dr_name_en": "Chomphet",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "610",
-                "dr_name": "ວຽງຄຳ",
-                "dr_name_en": "Viengkham",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "611",
-                "dr_name": "ພູຄູນ",
-                "dr_name_en": "Phoukhoune",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "612",
-                "dr_name": "ໂພນທອງ",
-                "dr_name_en": "Phonthong",
-                "pr_id": "6"
-            },
-            {
-                "dr_id": "701",
-                "dr_name": "ຊຳເໜືອ",
-                "dr_name_en": "Xamneua",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "702",
-                "dr_name": "ຊຽງຄໍ້",
-                "dr_name_en": "Xiengkhor",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "703",
-                "dr_name": "ຮ້ຽມ",
-                "dr_name_en": "Hiam",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "704",
-                "dr_name": "ວຽງໄຊ",
-                "dr_name_en": "Viengxay",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "705",
-                "dr_name": "ຫົວເມືອງ",
-                "dr_name_en": "Huameuang",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "706",
-                "dr_name": "ຊຳໃຕ້",
-                "dr_name_en": "Xamtay",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "707",
-                "dr_name": "ສົບເບົາ",
-                "dr_name_en": "Sopbao",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "708",
-                "dr_name": "ແອດ",
-                "dr_name_en": "Add",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "709",
-                "dr_name": "ກວັນ",
-                "dr_name_en": "Kuan",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "710",
-                "dr_name": "ຊອນ",
-                "dr_name_en": "Xone",
-                "pr_id": "7"
-            },
-            {
-                "dr_id": "801",
-                "dr_name": "ໄຊຍະບູລີ",
-                "dr_name_en": "Xayabury",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "802",
-                "dr_name": "ຄອບ",
-                "dr_name_en": "Khop",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "803",
-                "dr_name": "ຫົງສາ",
-                "dr_name_en": "Hongsa",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "804",
-                "dr_name": "ເງິນ",
-                "dr_name_en": "Ngeun",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "805",
-                "dr_name": "ຊຽງຮ່ອນ",
-                "dr_name_en": "Xienghone",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "806",
-                "dr_name": "ພຽງ",
-                "dr_name_en": "Phieng",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "807",
-                "dr_name": "ປາກລາຍ",
-                "dr_name_en": "Parklai",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "808",
-                "dr_name": "ແກ່ນທ້າວ",
-                "dr_name_en": "Kenethao",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "809",
-                "dr_name": "ບໍ່ແຕນ",
-                "dr_name_en": "Botene",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "810",
-                "dr_name": "ທົ່ງມີໄຊ",
-                "dr_name_en": "Thongmyxay",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "811",
-                "dr_name": "ໄຊຊະຖານ",
-                "dr_name_en": "Xaysathan",
-                "pr_id": "8"
-            },
-            {
-                "dr_id": "901",
-                "dr_name": "ແປກ",
-                "dr_name_en": "Pek",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "902",
-                "dr_name": "ຄຳ",
-                "dr_name_en": "Kham",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "903",
-                "dr_name": "ໜອງແຮດ",
-                "dr_name_en": "Nonghed",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "904",
-                "dr_name": "ຄູນ",
-                "dr_name_en": "Khoune",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "905",
-                "dr_name": "ໝອກ",
-                "dr_name_en": "Mork",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "906",
-                "dr_name": "ພູກູດ",
-                "dr_name_en": "Phookood",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "907",
-                "dr_name": "ຜາໄຊ",
-                "dr_name_en": "Phaxay",
-                "pr_id": "9"
-            },
-            {
-                "dr_id": "1001",
-                "dr_name": "ໂພນໂຮງ",
-                "dr_name_en": "Phonhong",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1002",
-                "dr_name": "ທຸລະຄົມ",
-                "dr_name_en": "Thoulakhom",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1003",
-                "dr_name": "ແກ້ວອຸດົມ",
-                "dr_name_en": "Keooudom",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1004",
-                "dr_name": "ກາສີ",
-                "dr_name_en": "Kasy",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1005",
-                "dr_name": "ວັງວຽງ",
-                "dr_name_en": "Vangvieng",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1006",
-                "dr_name": "ເຟືອງ",
-                "dr_name_en": "Feuang",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1007",
-                "dr_name": "ຊະນະຄາມ",
-                "dr_name_en": "Xanakham",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1008",
-                "dr_name": "ແມດ",
-                "dr_name_en": "Mad",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1009",
-                "dr_name": "ວຽງຄຳ",
-                "dr_name_en": "Viengkham",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1010",
-                "dr_name": "ຫີນເຫີບ",
-                "dr_name_en": "Hinherb",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1012",
-                "dr_name": "ໝື່ນ",
-                "dr_name_en": "Meun",
-                "pr_id": "10"
-            },
-            {
-                "dr_id": "1101",
-                "dr_name": "ປາກຊັນ",
-                "dr_name_en": "Pakxane",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1102",
-                "dr_name": "ທ່າພະບາດ",
-                "dr_name_en": "Thaphabath",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1103",
-                "dr_name": "ປາກກະດິງ",
-                "dr_name_en": "Pakkading",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1104",
-                "dr_name": "ບໍລິຄັນ",
-                "dr_name_en": "Bolikhanh",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1105",
-                "dr_name": "ຄຳເກີດ",
-                "dr_name_en": "Khamkheuth",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1106",
-                "dr_name": "ວຽງທອງ",
-                "dr_name_en": "Viengthong",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1107",
-                "dr_name": "ໄຊຈຳພອນ",
-                "dr_name_en": "Xaychamphone",
-                "pr_id": "11"
-            },
-            {
-                "dr_id": "1201",
-                "dr_name": "ທ່າແຂກ",
-                "dr_name_en": "Thakhek",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1202",
-                "dr_name": "ມະຫາໄຊ",
-                "dr_name_en": "Mahaxay",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1203",
-                "dr_name": "ໜອງບົກ",
-                "dr_name_en": "Nongbok",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1204",
-                "dr_name": "ຫີນບູນ",
-                "dr_name_en": "Hinboon",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1205",
-                "dr_name": "ຍົມມະລາດ",
-                "dr_name_en": "Nhommalath",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1206",
-                "dr_name": "ບົວລະພາ",
-                "dr_name_en": "Bualapha",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1207",
-                "dr_name": "ນາກາຍ",
-                "dr_name_en": "Nakai",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1208",
-                "dr_name": "ເຊບັ້ງໄຟ",
-                "dr_name_en": "Xebangfay",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1209",
-                "dr_name": "ໄຊບົວທອງ",
-                "dr_name_en": "Xaybuathong",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1210",
-                "dr_name": "ຄູນຄຳ",
-                "dr_name_en": "Khounkham",
-                "pr_id": "12"
-            },
-            {
-                "dr_id": "1301",
-                "dr_name": "ໄກສອນ ພົມວິຫານ",
-                "dr_name_en": "Kaisone Phomvihane",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1302",
-                "dr_name": "ອຸທຸມພອນ",
-                "dr_name_en": "Outhoumphone",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1303",
-                "dr_name": "ອາດສະພັງທອງ",
-                "dr_name_en": "Atsaphangthong",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1304",
-                "dr_name": "ພີນ",
-                "dr_name_en": "Phine",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1305",
-                "dr_name": "ເຊໂປນ",
-                "dr_name_en": "Xepon",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1306",
-                "dr_name": "ນອງ",
-                "dr_name_en": "Nong",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1307",
-                "dr_name": "ທ່າປາງທອງ",
-                "dr_name_en": "Thapangthong",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1308",
-                "dr_name": "ສອງຄອນ",
-                "dr_name_en": "Songkhone",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1309",
-                "dr_name": "ຈຳພອນ",
-                "dr_name_en": "Champhone",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1310",
-                "dr_name": "ຊົນບູລີ",
-                "dr_name_en": "Xonbuly",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1311",
-                "dr_name": "ໄຊບູລີ",
-                "dr_name_en": "Xaybouly",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1312",
-                "dr_name": "ວິລະບູລີ",
-                "dr_name_en": "Vilabuly",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1313",
-                "dr_name": "ອາດສະພອນ",
-                "dr_name_en": "Atsaphone",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1314",
-                "dr_name": "ໄຊພູທອງ",
-                "dr_name_en": "Xayphoothong",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1315",
-                "dr_name": "ພະລານໄຊ",
-                "dr_name_en": "Phalanxay",
-                "pr_id": "13"
-            },
-            {
-                "dr_id": "1401",
-                "dr_name": "ສາລະວັນ",
-                "dr_name_en": "Saravane",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1402",
-                "dr_name": "ຕາໂອ້ຍ",
-                "dr_name_en": "Ta oi",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1403",
-                "dr_name": "ຕຸ້ມລານ",
-                "dr_name_en": "Toomlam",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1404",
-                "dr_name": "ລະຄອນເພັງ",
-                "dr_name_en": "Lakhonepheng",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1405",
-                "dr_name": "ວາປີ",
-                "dr_name_en": "Vapy",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1406",
-                "dr_name": "ຄົງເຊໂດນ",
-                "dr_name_en": "Kongxedone",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1407",
-                "dr_name": "ເລົ່າງາມ",
-                "dr_name_en": "Lao ngarm",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1408",
-                "dr_name": "ສະມ້ວຍ",
-                "dr_name_en": "Samoi",
-                "pr_id": "14"
-            },
-            {
-                "dr_id": "1501",
-                "dr_name": "ລະມາມ",
-                "dr_name_en": "Lamarm",
-                "pr_id": "15"
-            },
-            {
-                "dr_id": "1502",
-                "dr_name": "ກະລືມ",
-                "dr_name_en": "Kaleum",
-                "pr_id": "15"
-            },
-            {
-                "dr_id": "1503",
-                "dr_name": "ດາກຈຶງ",
-                "dr_name_en": "Dakcheung",
-                "pr_id": "15"
-            },
-            {
-                "dr_id": "1504",
-                "dr_name": "ທ່າແຕງ",
-                "dr_name_en": "Thateng",
-                "pr_id": "15"
-            },
-            {
-                "dr_id": "1601",
-                "dr_name": "ປາກເຊ",
-                "dr_name_en": "Pakse",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1602",
-                "dr_name": "ຊະນະສົມບູນ",
-                "dr_name_en": "Sanasomboon",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1603",
-                "dr_name": "ບາຈຽງຈະເລີນສຸກ",
-                "dr_name_en": "Bachiangchaleunsook",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1604",
-                "dr_name": "ປາກຊ່ອງ",
-                "dr_name_en": "Pakxong",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1605",
-                "dr_name": "ປະທຸມພອນ",
-                "dr_name_en": "Pathoumphone",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1606",
-                "dr_name": "ໂພນທອງ",
-                "dr_name_en": "Phonthong",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1607",
-                "dr_name": "ຈຳປາສັກ",
-                "dr_name_en": "Champasak",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1608",
-                "dr_name": "ສຸຂຸມາ",
-                "dr_name_en": "Sukhuma",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1609",
-                "dr_name": "ມຸນລະປະໂມກ",
-                "dr_name_en": "Moonlapamok",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1610",
-                "dr_name": "ໂຂງ",
-                "dr_name_en": "Khong",
-                "pr_id": "16"
-            },
-            {
-                "dr_id": "1701",
-                "dr_name": "ໄຊເສດຖາ",
-                "dr_name_en": "Xaysettha",
-                "pr_id": "17"
-            },
-            {
-                "dr_id": "1702",
-                "dr_name": "ສາມະຄີໄຊ",
-                "dr_name_en": "Samakkixay",
-                "pr_id": "17"
-            },
-            {
-                "dr_id": "1703",
-                "dr_name": "ສະໜາມໄຊ",
-                "dr_name_en": "Sanamxay",
-                "pr_id": "17"
-            },
-            {
-                "dr_id": "1704",
-                "dr_name": "ສານໄຊ",
-                "dr_name_en": "Sanxay",
-                "pr_id": "17"
-            },
-            {
-                "dr_id": "1705",
-                "dr_name": "ພູວົງ",
-                "dr_name_en": "Phouvong",
-                "pr_id": "17"
-            },
-            {
-                "dr_id": "1801",
-                "dr_name": "ອານຸວົງ",
-                "dr_name_en": "Anouvong",
-                "pr_id": "18"
-            },
-            {
-                "dr_id": "1802",
-                "dr_name": "ທ່າໂທມ",
-                "dr_name_en": "Thathom",
-                "pr_id": "18"
-            },
-            {
-                "dr_id": "1803",
-                "dr_name": "ລ້ອງແຈ້ງ",
-                "dr_name_en": "Longcheng",
-                "pr_id": "18"
-            },
-            {
-                "dr_id": "1804",
-                "dr_name": "ຮົ່ມ",
-                "dr_name_en": "Hom",
-                "pr_id": "18"
-            },
-            {
-                "dr_id": "1805",
-                "dr_name": "ລ້ອງຊານ",
-                "dr_name_en": "Longsan",
-                "pr_id": "18"
-            }
-        ]
+    {
+        "dr_id": "101",
+        "dr_name": "ຈັນທະບູລີ",
+        "dr_name_en": "Chanthabuly",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "102",
+        "dr_name": "ສີໂຄດຕະບອງ",
+        "dr_name_en": "Sikhottabong",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "103",
+        "dr_name": "ໄຊເສດຖາ",
+        "dr_name_en": "Xaysetha",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "104",
+        "dr_name": "ສີສັດຕະນາກ",
+        "dr_name_en": "Sisattanak",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "105",
+        "dr_name": "ນາຊາຍທອງ",
+        "dr_name_en": "Naxaithong",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "106",
+        "dr_name": "ໄຊທານີ",
+        "dr_name_en": "Xaythany",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "107",
+        "dr_name": "ຫາດຊາຍຟອງ",
+        "dr_name_en": "Hadxaifong",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "108",
+        "dr_name": "ສັງທອງ",
+        "dr_name_en": "Sangthong",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "109",
+        "dr_name": "ປາກງື່ມ",
+        "dr_name_en": "Parkngum",
+        "pr_id": "1"
+    },
+    {
+        "dr_id": "201",
+        "dr_name": "ຜົ້ງສາລີ",
+        "dr_name_en": "Phongsaly",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "202",
+        "dr_name": "ໃຫມ່",
+        "dr_name_en": "May",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "203",
+        "dr_name": "ຂວາ",
+        "dr_name_en": "Khua",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "204",
+        "dr_name": "ສຳພັນ",
+        "dr_name_en": "Samphanh",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "205",
+        "dr_name": "ບູນເຫນືອ",
+        "dr_name_en": "Bounneua",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "206",
+        "dr_name": "ຍອດອູ",
+        "dr_name_en": "Nhot ou",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "207",
+        "dr_name": "ບູນໃຕ້",
+        "dr_name_en": "Boontai",
+        "pr_id": "2"
+    },
+    {
+        "dr_id": "301",
+        "dr_name": "ຫລວງນ້ຳທາ",
+        "dr_name_en": "Luangnamtha",
+        "pr_id": "3"
+    },
+    {
+        "dr_id": "302",
+        "dr_name": "ສິງ",
+        "dr_name_en": "Sing",
+        "pr_id": "3"
+    },
+    {
+        "dr_id": "303",
+        "dr_name": "ລອງ",
+        "dr_name_en": "Long",
+        "pr_id": "3"
+    },
+    {
+        "dr_id": "304",
+        "dr_name": "ວຽງພູຄາ",
+        "dr_name_en": "Viengphoukha",
+        "pr_id": "3"
+    },
+    {
+        "dr_id": "305",
+        "dr_name": "ນາແລ",
+        "dr_name_en": "Nalae",
+        "pr_id": "3"
+    },
+    {
+        "dr_id": "401",
+        "dr_name": "ໄຊ",
+        "dr_name_en": "Xay",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "402",
+        "dr_name": "ຫລາ",
+        "dr_name_en": "La",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "403",
+        "dr_name": "ນາໝໍ້ ",
+        "dr_name_en": "Namor",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "404",
+        "dr_name": "ງາ",
+        "dr_name_en": "Nga",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "405",
+        "dr_name": "ແບງ",
+        "dr_name_en": "Beng",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "406",
+        "dr_name": "ຮຸນ",
+        "dr_name_en": "Hoon",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "407",
+        "dr_name": "ປາກແບງ",
+        "dr_name_en": "Pakbeng",
+        "pr_id": "4"
+    },
+    {
+        "dr_id": "501",
+        "dr_name": "ຫ້ວຍຊາຍ",
+        "dr_name_en": "Houixay",
+        "pr_id": "5"
+    },
+    {
+        "dr_id": "502",
+        "dr_name": "ຕົ້ນເຜິ້ງ",
+        "dr_name_en": "Tongpheung",
+        "pr_id": "5"
+    },
+    {
+        "dr_id": "503",
+        "dr_name": "ເມິງ",
+        "dr_name_en": "Meung",
+        "pr_id": "5"
+    },
+    {
+        "dr_id": "504",
+        "dr_name": "ຜາອຸດົມ",
+        "dr_name_en": "Phaoudom",
+        "pr_id": "5"
+    },
+    {
+        "dr_id": "505",
+        "dr_name": "ປາກທາ",
+        "dr_name_en": "Paktha",
+        "pr_id": "5"
+    },
+    {
+        "dr_id": "601",
+        "dr_name": "ຫຼວງພະບາງ",
+        "dr_name_en": "Luangprabang",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "602",
+        "dr_name": "ຊຽງເງິນ",
+        "dr_name_en": "Xiengngeun",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "603",
+        "dr_name": "ນານ",
+        "dr_name_en": "Nan",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "604",
+        "dr_name": "ປາກອູ",
+        "dr_name_en": "Parkou",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "605",
+        "dr_name": "ນ້ຳບາກ",
+        "dr_name_en": "Nambak",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "606",
+        "dr_name": "ງອຍ",
+        "dr_name_en": "Ngoi",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "607",
+        "dr_name": "ປາກແຊງ",
+        "dr_name_en": "Pakxeng",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "608",
+        "dr_name": "ໂພນໄຊ",
+        "dr_name_en": "Phonxay",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "609",
+        "dr_name": "ຈອມເພັດ",
+        "dr_name_en": "Chomphet",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "610",
+        "dr_name": "ວຽງຄຳ",
+        "dr_name_en": "Viengkham",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "611",
+        "dr_name": "ພູຄູນ",
+        "dr_name_en": "Phoukhoune",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "612",
+        "dr_name": "ໂພນທອງ",
+        "dr_name_en": "Phonthong",
+        "pr_id": "6"
+    },
+    {
+        "dr_id": "701",
+        "dr_name": "ຊຳເໜືອ",
+        "dr_name_en": "Xamneua",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "702",
+        "dr_name": "ຊຽງຄໍ້",
+        "dr_name_en": "Xiengkhor",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "703",
+        "dr_name": "ຮ້ຽມ",
+        "dr_name_en": "Hiam",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "704",
+        "dr_name": "ວຽງໄຊ",
+        "dr_name_en": "Viengxay",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "705",
+        "dr_name": "ຫົວເມືອງ",
+        "dr_name_en": "Huameuang",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "706",
+        "dr_name": "ຊຳໃຕ້",
+        "dr_name_en": "Xamtay",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "707",
+        "dr_name": "ສົບເບົາ",
+        "dr_name_en": "Sopbao",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "708",
+        "dr_name": "ແອດ",
+        "dr_name_en": "Add",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "709",
+        "dr_name": "ກວັນ",
+        "dr_name_en": "Kuan",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "710",
+        "dr_name": "ຊອນ",
+        "dr_name_en": "Xone",
+        "pr_id": "7"
+    },
+    {
+        "dr_id": "801",
+        "dr_name": "ໄຊຍະບູລີ",
+        "dr_name_en": "Xayabury",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "802",
+        "dr_name": "ຄອບ",
+        "dr_name_en": "Khop",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "803",
+        "dr_name": "ຫົງສາ",
+        "dr_name_en": "Hongsa",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "804",
+        "dr_name": "ເງິນ",
+        "dr_name_en": "Ngeun",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "805",
+        "dr_name": "ຊຽງຮ່ອນ",
+        "dr_name_en": "Xienghone",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "806",
+        "dr_name": "ພຽງ",
+        "dr_name_en": "Phieng",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "807",
+        "dr_name": "ປາກລາຍ",
+        "dr_name_en": "Parklai",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "808",
+        "dr_name": "ແກ່ນທ້າວ",
+        "dr_name_en": "Kenethao",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "809",
+        "dr_name": "ບໍ່ແຕນ",
+        "dr_name_en": "Botene",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "810",
+        "dr_name": "ທົ່ງມີໄຊ",
+        "dr_name_en": "Thongmyxay",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "811",
+        "dr_name": "ໄຊຊະຖານ",
+        "dr_name_en": "Xaysathan",
+        "pr_id": "8"
+    },
+    {
+        "dr_id": "901",
+        "dr_name": "ແປກ",
+        "dr_name_en": "Pek",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "902",
+        "dr_name": "ຄຳ",
+        "dr_name_en": "Kham",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "903",
+        "dr_name": "ໜອງແຮດ",
+        "dr_name_en": "Nonghed",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "904",
+        "dr_name": "ຄູນ",
+        "dr_name_en": "Khoune",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "905",
+        "dr_name": "ໝອກ",
+        "dr_name_en": "Mork",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "906",
+        "dr_name": "ພູກູດ",
+        "dr_name_en": "Phookood",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "907",
+        "dr_name": "ຜາໄຊ",
+        "dr_name_en": "Phaxay",
+        "pr_id": "9"
+    },
+    {
+        "dr_id": "1001",
+        "dr_name": "ໂພນໂຮງ",
+        "dr_name_en": "Phonhong",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1002",
+        "dr_name": "ທຸລະຄົມ",
+        "dr_name_en": "Thoulakhom",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1003",
+        "dr_name": "ແກ້ວອຸດົມ",
+        "dr_name_en": "Keooudom",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1004",
+        "dr_name": "ກາສີ",
+        "dr_name_en": "Kasy",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1005",
+        "dr_name": "ວັງວຽງ",
+        "dr_name_en": "Vangvieng",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1006",
+        "dr_name": "ເຟືອງ",
+        "dr_name_en": "Feuang",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1007",
+        "dr_name": "ຊະນະຄາມ",
+        "dr_name_en": "Xanakham",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1008",
+        "dr_name": "ແມດ",
+        "dr_name_en": "Mad",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1009",
+        "dr_name": "ວຽງຄຳ",
+        "dr_name_en": "Viengkham",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1010",
+        "dr_name": "ຫີນເຫີບ",
+        "dr_name_en": "Hinherb",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1012",
+        "dr_name": "ໝື່ນ",
+        "dr_name_en": "Meun",
+        "pr_id": "10"
+    },
+    {
+        "dr_id": "1101",
+        "dr_name": "ປາກຊັນ",
+        "dr_name_en": "Pakxane",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1102",
+        "dr_name": "ທ່າພະບາດ",
+        "dr_name_en": "Thaphabath",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1103",
+        "dr_name": "ປາກກະດິງ",
+        "dr_name_en": "Pakkading",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1104",
+        "dr_name": "ບໍລິຄັນ",
+        "dr_name_en": "Bolikhanh",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1105",
+        "dr_name": "ຄຳເກີດ",
+        "dr_name_en": "Khamkheuth",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1106",
+        "dr_name": "ວຽງທອງ",
+        "dr_name_en": "Viengthong",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1107",
+        "dr_name": "ໄຊຈຳພອນ",
+        "dr_name_en": "Xaychamphone",
+        "pr_id": "11"
+    },
+    {
+        "dr_id": "1201",
+        "dr_name": "ທ່າແຂກ",
+        "dr_name_en": "Thakhek",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1202",
+        "dr_name": "ມະຫາໄຊ",
+        "dr_name_en": "Mahaxay",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1203",
+        "dr_name": "ໜອງບົກ",
+        "dr_name_en": "Nongbok",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1204",
+        "dr_name": "ຫີນບູນ",
+        "dr_name_en": "Hinboon",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1205",
+        "dr_name": "ຍົມມະລາດ",
+        "dr_name_en": "Nhommalath",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1206",
+        "dr_name": "ບົວລະພາ",
+        "dr_name_en": "Bualapha",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1207",
+        "dr_name": "ນາກາຍ",
+        "dr_name_en": "Nakai",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1208",
+        "dr_name": "ເຊບັ້ງໄຟ",
+        "dr_name_en": "Xebangfay",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1209",
+        "dr_name": "ໄຊບົວທອງ",
+        "dr_name_en": "Xaybuathong",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1210",
+        "dr_name": "ຄູນຄຳ",
+        "dr_name_en": "Khounkham",
+        "pr_id": "12"
+    },
+    {
+        "dr_id": "1301",
+        "dr_name": "ໄກສອນ ພົມວິຫານ",
+        "dr_name_en": "Kaisone Phomvihane",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1302",
+        "dr_name": "ອຸທຸມພອນ",
+        "dr_name_en": "Outhoumphone",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1303",
+        "dr_name": "ອາດສະພັງທອງ",
+        "dr_name_en": "Atsaphangthong",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1304",
+        "dr_name": "ພີນ",
+        "dr_name_en": "Phine",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1305",
+        "dr_name": "ເຊໂປນ",
+        "dr_name_en": "Xepon",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1306",
+        "dr_name": "ນອງ",
+        "dr_name_en": "Nong",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1307",
+        "dr_name": "ທ່າປາງທອງ",
+        "dr_name_en": "Thapangthong",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1308",
+        "dr_name": "ສອງຄອນ",
+        "dr_name_en": "Songkhone",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1309",
+        "dr_name": "ຈຳພອນ",
+        "dr_name_en": "Champhone",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1310",
+        "dr_name": "ຊົນບູລີ",
+        "dr_name_en": "Xonbuly",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1311",
+        "dr_name": "ໄຊບູລີ",
+        "dr_name_en": "Xaybouly",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1312",
+        "dr_name": "ວິລະບູລີ",
+        "dr_name_en": "Vilabuly",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1313",
+        "dr_name": "ອາດສະພອນ",
+        "dr_name_en": "Atsaphone",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1314",
+        "dr_name": "ໄຊພູທອງ",
+        "dr_name_en": "Xayphoothong",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1315",
+        "dr_name": "ພະລານໄຊ",
+        "dr_name_en": "Phalanxay",
+        "pr_id": "13"
+    },
+    {
+        "dr_id": "1401",
+        "dr_name": "ສາລະວັນ",
+        "dr_name_en": "Saravane",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1402",
+        "dr_name": "ຕາໂອ້ຍ",
+        "dr_name_en": "Ta oi",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1403",
+        "dr_name": "ຕຸ້ມລານ",
+        "dr_name_en": "Toomlam",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1404",
+        "dr_name": "ລະຄອນເພັງ",
+        "dr_name_en": "Lakhonepheng",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1405",
+        "dr_name": "ວາປີ",
+        "dr_name_en": "Vapy",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1406",
+        "dr_name": "ຄົງເຊໂດນ",
+        "dr_name_en": "Kongxedone",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1407",
+        "dr_name": "ເລົ່າງາມ",
+        "dr_name_en": "Lao ngarm",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1408",
+        "dr_name": "ສະມ້ວຍ",
+        "dr_name_en": "Samoi",
+        "pr_id": "14"
+    },
+    {
+        "dr_id": "1501",
+        "dr_name": "ລະມາມ",
+        "dr_name_en": "Lamarm",
+        "pr_id": "15"
+    },
+    {
+        "dr_id": "1502",
+        "dr_name": "ກະລືມ",
+        "dr_name_en": "Kaleum",
+        "pr_id": "15"
+    },
+    {
+        "dr_id": "1503",
+        "dr_name": "ດາກຈຶງ",
+        "dr_name_en": "Dakcheung",
+        "pr_id": "15"
+    },
+    {
+        "dr_id": "1504",
+        "dr_name": "ທ່າແຕງ",
+        "dr_name_en": "Thateng",
+        "pr_id": "15"
+    },
+    {
+        "dr_id": "1601",
+        "dr_name": "ປາກເຊ",
+        "dr_name_en": "Pakse",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1602",
+        "dr_name": "ຊະນະສົມບູນ",
+        "dr_name_en": "Sanasomboon",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1603",
+        "dr_name": "ບາຈຽງຈະເລີນສຸກ",
+        "dr_name_en": "Bachiangchaleunsook",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1604",
+        "dr_name": "ປາກຊ່ອງ",
+        "dr_name_en": "Pakxong",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1605",
+        "dr_name": "ປະທຸມພອນ",
+        "dr_name_en": "Pathoumphone",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1606",
+        "dr_name": "ໂພນທອງ",
+        "dr_name_en": "Phonthong",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1607",
+        "dr_name": "ຈຳປາສັກ",
+        "dr_name_en": "Champasak",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1608",
+        "dr_name": "ສຸຂຸມາ",
+        "dr_name_en": "Sukhuma",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1609",
+        "dr_name": "ມຸນລະປະໂມກ",
+        "dr_name_en": "Moonlapamok",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1610",
+        "dr_name": "ໂຂງ",
+        "dr_name_en": "Khong",
+        "pr_id": "16"
+    },
+    {
+        "dr_id": "1701",
+        "dr_name": "ໄຊເສດຖາ",
+        "dr_name_en": "Xaysettha",
+        "pr_id": "17"
+    },
+    {
+        "dr_id": "1702",
+        "dr_name": "ສາມະຄີໄຊ",
+        "dr_name_en": "Samakkixay",
+        "pr_id": "17"
+    },
+    {
+        "dr_id": "1703",
+        "dr_name": "ສະໜາມໄຊ",
+        "dr_name_en": "Sanamxay",
+        "pr_id": "17"
+    },
+    {
+        "dr_id": "1704",
+        "dr_name": "ສານໄຊ",
+        "dr_name_en": "Sanxay",
+        "pr_id": "17"
+    },
+    {
+        "dr_id": "1705",
+        "dr_name": "ພູວົງ",
+        "dr_name_en": "Phouvong",
+        "pr_id": "17"
+    },
+    {
+        "dr_id": "1801",
+        "dr_name": "ອານຸວົງ",
+        "dr_name_en": "Anouvong",
+        "pr_id": "18"
+    },
+    {
+        "dr_id": "1802",
+        "dr_name": "ທ່າໂທມ",
+        "dr_name_en": "Thathom",
+        "pr_id": "18"
+    },
+    {
+        "dr_id": "1803",
+        "dr_name": "ລ້ອງແຈ້ງ",
+        "dr_name_en": "Longcheng",
+        "pr_id": "18"
+    },
+    {
+        "dr_id": "1804",
+        "dr_name": "ຮົ່ມ",
+        "dr_name_en": "Hom",
+        "pr_id": "18"
+    },
+    {
+        "dr_id": "1805",
+        "dr_name": "ລ້ອງຊານ",
+        "dr_name_en": "Longsan",
+        "pr_id": "18"
+    }
+]
