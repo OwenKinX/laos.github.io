@@ -1,5 +1,4 @@
-{
-    "provinces": [
+[
         {
             "pr_id": "1",
             "pr_name": "ນະຄອນຫຼວງວຽງຈັນ",
@@ -91,5 +90,3 @@
             "pr_name_en": "Sisomboun"
         }
     ]
-}
-        
